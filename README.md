@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @airomatix
+- 👋 Hi, I’m airomatix
 - 👀 I’m interested in Making useful apps
 - 🌱 I’m currently learning C#
 
